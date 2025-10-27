@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: black;
+    color: white;
+    margin: 20px;
+    display: flex;
+  justify-content: center; 
+  align-items: center;   
+  flex-wrap: wrap; 
+}
+.chat { 
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+    border-radius: 4px;
+    background-color: #6b5955;
+    width: 80% ;
+    justify-content: center; 
+  align-items: center;   
+  
+
+}
+.message {
+    margin-top: 5px;
+    padding: 8px;
+    background-color: #40686d;
+    border-radius: 4px;
+    width: fit-content;
+}   
